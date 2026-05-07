@@ -1,0 +1,5 @@
+Model,Test Loss,Test Accuracy
+Baseline CNN,0.2952,0.917
+MobileNetV2,0.3787,0.8736
+EfficientNetB0,0.3915,0.8592
+MobileNetV2 + Augmentation,0.3608,0.8682

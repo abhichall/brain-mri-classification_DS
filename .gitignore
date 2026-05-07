@@ -5,4 +5,5 @@
 data/
 
 # venv
-venv/
+venv/models/*.keras
+models/*.keras

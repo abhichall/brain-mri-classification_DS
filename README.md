@@ -4,7 +4,7 @@
 
 This project's goal is to discover the effectiveness of convolutional neural networks (CNNs) and transfer learning models on classifying four classes of brain tumors from MRI scans. We use a custom baseline CNN against pre-trained transfer learning architectures such as MobileNetV2 and EfficientNetB0. We also did perform an augmentation experiment to analyze the impact of data augmentation on model generalization. This included augmentations such as flipping, rotating, dimming, etc to the data.
 
-Our final paper -- attached to this repo as **\brainMRIClassificationPaper\_** - gathers all of the findings from this ML pipelining and summarizes it to focus on model comparison, preprocessing techniques, data augmentation, and overall performance in medical image classification.
+Our final paper -- attached to this repo as **brainMRIClassificationPaper\_** - gathers all of the findings from this ML pipelining and summarizes it to focus on model comparison, preprocessing techniques, data augmentation, and overall performance in medical image classification.
 
 ---
 
